@@ -1,9 +1,12 @@
 import React from 'react'
+import UserWidget from "scenes/widgets/UserWidget";
 
-const profilePage = () => {
+const ProfilePage = () => {
   return (
-    <div>profilePage</div>
+    <div>
+      profile page
+    </div>
   )
 }
 
-export default profilePage
+export default ProfilePage
